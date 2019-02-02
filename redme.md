@@ -1,14 +1,7 @@
-12345
-19191
+# Testy platforma AI dla Ksiegowosci
 
-123344
+## Spec
 
-WSB
+## TODO
 
-wroclaw
-
-456
-
-16162
-
-1234
+## Referencje
